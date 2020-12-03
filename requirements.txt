@@ -1,0 +1,7 @@
+numpy==1.18.5
+jieba==0.42.1
+pandas==1.0.5
+bert_serving_server==1.10.0
+bert_serving==0.0.1
+PyQt5==5.15.2
+scikit_learn==0.23.2
